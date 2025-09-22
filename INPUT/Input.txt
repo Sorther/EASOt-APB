@@ -14,7 +14,7 @@ unit i.e., m/s2 or m/s for acceleration or velocity respectively. “Unit” can
 depends on existence of a unique CF value for whole data or not. (Default: No, 1)
 No, 1e-9 
 minSta: minimum number of stations required to make average and build up the LPDT curve at each time. (Default: 5)
-3 
+4 
 Rmax: maximum hypocentral distance in km to select data within, for events with different range of Magnitude: 
 M<=1, 1<M<=3, 3<M<=5, and M>5. (Default: 20, 40, 60, 100)
 30, 15, 15, 100
